@@ -1,2 +1,2 @@
 # Born2beroot
-concept of machine (Linux)Debian configuration
+### concept of machine (Linux)Debian configuration
