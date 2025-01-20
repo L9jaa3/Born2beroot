@@ -1,0 +1,1 @@
+## If you don't want to waste your time, I mean if you already know about Born and parts of Debian configuration, you can use the script, otherwise, you are a loser because you are not wasting time, you are wasting information.
